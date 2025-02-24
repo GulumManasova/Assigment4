@@ -1,26 +1,28 @@
-from car import Car
-if __name__ == '__main__':
-    car1=Car()
-    car1.make='BMW'
-    print(car1.model)
-    car1.info()
+# main.py
+from user import User
+from datetime import datetime
 
-    car1=Car('Mercedes',2002)
-    car1.drive()
+def main():
+    # Creating a user instance with proper datetime conversion
+    user = User(
+        user_id=1001,
+        name="Gulum",
+        surname="Manasova",
+        email="manasovaguluma@gmail.com",
+        password="Manasova2005@",
+        birthday=datetime.strptime("2005-10-03", "%Y-%m-%d")  # Convert string to datetime
+    )
 
-    car2=Car('Toyota Camry',' model is ', 70)
-    car2.info2()
+    # Display user details
+    print(user.get_details())
 
-    car3=Car('Kia k7')
-    car3.drive()
+    # Display user age
+    print("Age:", user.get_age())
 
-    car4=Car('Lexus','white ',570)
-    car4.dream()
+if __name__ == "__main__":
+    main()
 
 
-    car6 = Car('Tesla','red','S',price=23500)
-    car6.show_price()
 
-    car7 = Car('Rolls Royce')
-    car7.show_model()
+
 
