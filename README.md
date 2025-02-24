@@ -33,7 +33,15 @@ Provides utility functions for generating user IDs, passwords, emails, and valid
 
 ## Sample Runs
 
-### Example 1:
+### INPUT
 ```python
 user = User(user_id=1001, name="Gulum", surname="Manasova", birthday=datetime(2005, 10, 3))
 print(user.get_details())
+
+### OUTPUT:
+User Details: ID: 1,
+ Name: Gulum,
+Surname: Mansaova,
+Birthday: 2005-10-03,
+User Age: 20.
+
