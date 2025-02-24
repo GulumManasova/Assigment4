@@ -39,6 +39,7 @@ Provides utility functions for generating user IDs, passwords, emails, and valid
 ### INPUT:
 user = User(user_id=1001, name="Gulum", surname="Manasova", birthday=datetime(2005, 10, 3))
 print(user.get_details())
+print("User Age:", user.get_age())
 
 ### OUTPUT:
 User Details: ID: 1,
