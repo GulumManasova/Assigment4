@@ -42,6 +42,6 @@ print(user.get_details())
 User Details: ID: 1,
  Name: Gulum,
 Surname: Mansaova,
-Birthday: 2005-10-03,
+
 User Age: 20.
 
