@@ -1,3 +1,5 @@
+<img width="233" alt="Image" src="https://github.com/user-attachments/assets/ae8bded5-e651-41e2-b630-bb6a65395a12" />
+
 # User Management System
 
 ## Overview
