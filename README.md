@@ -1,7 +1,7 @@
 ## UML diagram
 
 
-<img width="233" alt="Image" src="https://github.com/user-attachments/assets/ae8bded5-e651-41e2-b630-bb6a65395a12" />
+<img width="382" alt="Image" src="https://github.com/user-attachments/assets/3f2f3fc9-f042-4dca-a31d-e4fef3a56b83" />
 
 ## Sample input/output.
 
