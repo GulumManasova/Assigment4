@@ -18,35 +18,8 @@ Provides utility functions for generating user IDs, passwords, emails, and valid
 
 ## Running the Tests
 
-### Installation
-
-1. Clone this repository.
-2. Install dependencies (if any) using:
-    ```
-    pip install -r requirements.txt
-    ```
-
-3. Run the tests:
-    ```
-    python -m unittest discover
-    ```
-
-## Sample Runs
 
 
 
-```python
-### INPUT:
-user = User(user_id=1001, name="Gulum", surname="Manasova", birthday=datetime(2005, 10, 3))
-print(user.get_details())
-print("User Age:", user.get_age())
-
-### OUTPUT:
-User Details: ID: 1,
- Name: Gulum,
-Surname: Mansaova,
-Birthday: 2005-10-03
-
-User Age: 20.
 <img width="1083" alt="Image" src="https://github.com/user-attachments/assets/efb0c8c5-8567-4d8f-9dc3-fe24fafa5ebb" />
 
