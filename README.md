@@ -7,6 +7,10 @@
 
 <img width="843" alt="Image" src="https://github.com/user-attachments/assets/524cdfaa-c021-4df0-b97c-e613d1a2b45b" />
 
+## Running the Tests
+
+<img width="1083" alt="Image" src="https://github.com/user-attachments/assets/efb0c8c5-8567-4d8f-9dc3-fe24fafa5ebb" />
+
 # User Management System
 
 ## Overview
@@ -23,10 +27,9 @@ Manages users, including adding, finding, deleting, and updating users. It also 
 ### UserUtil
 Provides utility functions for generating user IDs, passwords, emails, and validating them.
 
-## Running the Tests
 
 
 
 
-<img width="1083" alt="Image" src="https://github.com/user-attachments/assets/efb0c8c5-8567-4d8f-9dc3-fe24fafa5ebb" />
+
 
