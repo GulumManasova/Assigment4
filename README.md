@@ -1,5 +1,7 @@
 <img width="233" alt="Image" src="https://github.com/user-attachments/assets/ae8bded5-e651-41e2-b630-bb6a65395a12" />
 
+## Sample input/output.
+
 <img width="843" alt="Image" src="https://github.com/user-attachments/assets/524cdfaa-c021-4df0-b97c-e613d1a2b45b" />
 
 # User Management System
