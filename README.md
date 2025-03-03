@@ -11,7 +11,6 @@
 
 <img width="1083" alt="Image" src="https://github.com/user-attachments/assets/efb0c8c5-8567-4d8f-9dc3-fe24fafa5ebb" />
 
-# User Management System
 
 ## Overview
 This project is a user management system with classes and methods for managing user information, validating user credentials, and handling basic operations like adding, updating, and deleting users.
